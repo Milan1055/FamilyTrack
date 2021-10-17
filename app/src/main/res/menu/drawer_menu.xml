@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+<group android:checkableBehavior="single" >
+    <item
+        android:id="@+id/menu_about"
+        android:orderInCategory="100"
+        android:icon="@drawable/splashscreenlogo"
+        app:showAsAction="never"
+        android:title="@string/about"
+        />
+
+    <item
+        android:id="@+id/menu_contact"
+        android:title="Contact"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_baseline_email_24"
+        app:showAsAction="never"
+        />
+
+    <item
+        android:id="@+id/button_panic"
+        android:title="Panic!"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_baseline_notification_important_24"
+        app:showAsAction="never"
+        />
+
+
+    <item
+        android:id="@+id/menu_sign_out"
+        android:title="Sign Out"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_round_logout_24"
+        app:showAsAction="never"
+        />
+
+
+</group>
+</menu>
+

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1038718938709",
+    "firebase_url": "https://familytrack---fyp-default-rtdb.firebaseio.com",
+    "project_id": "familytrack---fyp",
+    "storage_bucket": "familytrack---fyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038718938709:android:a95c9028beb4b92630aedc",
+        "android_client_info": {
+          "package_name": "com.example.familytrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038718938709-u9nrloqteaqsm3uknu1bh5ptcpsti2m2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7KT2JzbEHesiE2zkNJ7ZABdbc5hAfKEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038718938709-u9nrloqteaqsm3uknu1bh5ptcpsti2m2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

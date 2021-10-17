@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FamilyTrack</string>
+    <string name="title_activity_maps">FamilyTrack</string>
+        <string name="title_activiy_latest_messages">Messages</string>
+
+    <string name="about">
+       About
+    </string>
+    <string name="about_text">According to Rachel Krishna (2020) 75,918 children were recorded
+        missing by the UK police forces in 2018/2019, and only 52% of the incidents were
+        resolved within 8 hours.
+        This is the main reason why I created this application as my Final Year Project, which may help the authorities
+        to reduce the time being taken to resolve these cases, and find lost children to allow them to reunite with their family as soon as possible.
+    </string>
+    <string name="do_you_have_any_questions_you_found_a_bug_contact_me_by_tapping_on_the_email_button_which_will_redirect_you_to_your_emailing_application_with_my_correct_contact_details">Do you have any questions? You found a bug? Contact me by tapping on the email button, which will redirect you to your emailing application with my correct contact details:</string>
+    <string name="back_to_registration"><u>Back to registration</u></string>
+    <string name="have_an_account_click_to_register"><u>Have an account? Click to Sign in!</u></string>
+
+
+</resources>
